@@ -2,7 +2,8 @@ This project aims to provide the online supplement for *Constrained Min-Cut
 Replication for K-Way Hypergraph Partitioning* article. Repository contains the
 experimented data, partitioning and replication results. Further, an interactive
 HTML report summarizing the results is located at
-[http://vy.github.com/cmcr](http://vy.github.com/cmcr) address.
+[http://vy.github.com/cmcr](http://vy.github.com/cmcr) address. (The HTML report
+is stored under the `gh-pages` branch of the repository.)
 
 Repository contents are structured as follows.
 
