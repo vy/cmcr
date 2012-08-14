@@ -1,0 +1,6 @@
+read: 440000 cputime, 455 msecs
+repl: 1020000 cputime, 1015 msecs
+boun: 160000 cputime, 215 msecs
+decom: 20000 cputime, 6 msecs
+ilp: 380000 cputime, 351 msecs
+peakvm: 381716

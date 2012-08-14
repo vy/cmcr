@@ -1,0 +1,14 @@
+k: 128
+cut: 44304
+imbal: 0.047039
+ncutnets: 6510
+avgcutnetdeg: 3.033948
+avgcutnetw: 6.787250
+avgcutnetconn: 2.002919
+ncutcells: 6874
+avgcutcelldeg: 5.367763
+avgcutcellcutnetdeg: 2.873291
+avgcutcellw: 51.854524
+minpartwgt: 198856
+avgpartwgt: 215094.218750
+maxpartwgt: 225212
